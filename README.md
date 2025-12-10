@@ -13,7 +13,7 @@ The program allows users to add, update, delete, mark task status, and view task
 - Mark tasks as **Completed** or **Pending**
 - View the list of all tasks with their status
 - CLI-based menu navigation
-
+- add list
 ---
 
 ## 🛠️ Technologies Used
